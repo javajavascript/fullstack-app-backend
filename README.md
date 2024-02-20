@@ -57,7 +57,7 @@ In MySQL Workbench, click server, sever status, the port is the shown here, defa
 
 In Spring Tool Suite, application.properties, the datasource.url = jdbc:mysql://localhost:3306/fullstack where 3306 is the port and fullstack is the database name
 
-IMPORTANT: In Spring Tool Suite,  application.properties, make sure to set the MySQL database password! This password is based on the local device, so it can be different on different devices! 
+**IMPORTANT**: In Spring Tool Suite,  application.properties, the database password is based on the local device, so it can be different on different devices! Make sure to set the database password for your local device's SQL Workbench!
 
 ## Connect Back End to Front end
 
